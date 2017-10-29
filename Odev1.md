@@ -5,7 +5,7 @@ Aşağıdaki tabloya kendi sınıfınızı, öğrenci ismini ve numaranızı yaz
 Sınıf | Öğrenci İsmi  | Numara
 -------|----------------|--------
 9-E    | Ecenur AKBAŞ | 640
-9-E    | Esin Öztürk  | 636
+9-E    | Esin ÖZTÜRK | 636
 9-E    | İrem YILMAZ  | 631
 #  DARK AND WET
 ## Özet
