@@ -19,7 +19,7 @@ su olmalıdır.
 ## Kaynakçalar  
 
  1. İpek Vurdem,2016. “Islaksa Daha Koyu”, http://bilimseli.com/islaksa-daha-koyu/ , Son Erişim: 24.10.2017
- 2. Nikita, G. “Dark and Wet”. Russia
-www.solutions.iypt.org
-Son erişim tarihi: 27.10.2017
+ 2. Nikita, G. “Dark and Wet”. Russia 
+www.solutions.iypt.org 
+Son erişim tarihi: 27.10.2017  
 
