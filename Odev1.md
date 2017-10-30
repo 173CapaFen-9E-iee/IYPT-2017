@@ -4,18 +4,22 @@ Aşağıdaki tabloya kendi sınıfınızı, öğrenci ismini ve numaranızı yaz
 
 Sınıf | Öğrenci İsmi  | Numara
 -------|----------------|--------
-11-D   | Ahmet Çalışkan | 412
-11-D   | Ceyda Cesaretli | 111
-
-#  (buraya proje başlığını yazınız)
+9-E    | Ecenur AKBAŞ | 640
+9-E    | Esin Öztürk  | 636
+9-E    | İrem YILMAZ  | 631
+#  DARK AND WET
 ## Özet
-Buraya projenin özetini yazınız. Özet kısa ve anlaşılır olmalıdır.  Proje özeti yaklaşık 150-250 kelime arasında olmalıdır. Özeti okuyan, proje hakkında doğru bir fikre sahip olabilmelidir. Proje özetinde; projenin amacı ve kullanılacak yöntemler özetlenecektir. 
+Yapacağımız deney ile kumaşların renklerinin ıslanma ile birlikte koyulaştığını ispat etmeyi ve bu durumun sebeplerini bulmayı amaçlıyoruz.Islak olduğu için koyulaşan kumaşların varlığı hayatımızn her yerindedir.Bu durumu terleyen insanların kıyafetlerinde ve üzerine su döken çocukların pantolonunda gözlemleyebiliriz.Bu durumun sebebi ıslak  bölgeden gözümüze daha az ışık erişmesidir.Nesneleri görebilmemizi sağlayan etki ışıktır.Işığı azaltırsanız nesneler daha koyu görünmeye başlar.Çünkü gözümüze nesneden daha az ışık yansır.Bir kumaşın her yerine eşit miktarda ışık vurduğu zamanlarda eğer bir kısmı ıslaksa ıslak olan yer daha koyu görünür.Çünkü su da ışık yansımasını zorlaştırır ve yavaşlama olur.Bu yavaşlamanın sebebi ışığın su ve kumaş gibi moleküllere çarparak bir kısmının soğrulması ve tekrar bırakılmasıdır.Bu yüzden ıslak yüzeyden geçen ışık zorlanır ve yavaşlar.Sonıç olarak bu durumun sebebini ışığın hız değişimi olarak özetleyebiliriz.Bu bilgiler ile kontrollü
+bir deney yapmalıyız.Bağımlı değişkenimiz kumaşın rengi,bağımsız değişkenimiz su miktarı ve sabit değişkenimiz kumaş,ışık ve
+su olmalıdır.
+
+
+
 
 ## Kaynakçalar  
-Aşağıda kaynakçalara yer verilecektir. Konunuzla ilgili en az 3 tane referans bulunuz. Bulduğunuz  kaynakçaları (25MB'den az olmak kaydıyla ve video hariç) github hesabınıza kaydediniz. Github hesabınıza belgeleri nasıl yükleyeceğiniz öğrenmek için [buraya bakınız.](https://help.github.com/articles/adding-a-file-to-a-repository/). Kaynakçalar belli bir düzen içinde yazılacaktır. Örnekler için [buraya](http://www.tubitak.gov.tr/tr/duyuru/bibliyografik-verilerin-duzenlenmesi) bakabilirsiniz. Aşağıdaki referans örneklerini kendi bulduğunuz referanslarla değiştiriniz. IYPT ile ilgili kaynakçaları bulmak için [buraya](http://kit.ilyam.org/) bakabilirsiniz. Ya da daha önce çözülmüş IYPT sorularının kaynakçalarını kullanabilirsiniz. 
 
- 1. Huth, E. J. 1986. “Guidelines on authorship of medical papers”, Annals of Internal Medicine, 104, 269-274.
- 2. Clark, C. “Physicists Crack Another Piece of The Glass Puzzle”. R&D Magazine.
-http://www.rdmag.com/news/2012/10/physicists-crack-another-piece-glass-p...
-Son erişim tarihi: 15 Aralık 2012.
+ 1. İpek Vurdem,2016. “Islaksa Daha Koyu”, www.bilimseli.com, Son Erişim: 24.10.2017
+ 2. Nikita, G. “Dark and Wet”. Russia
+www.solutions.iypt.org
+Son erişim tarihi: 27.10.2017
 
