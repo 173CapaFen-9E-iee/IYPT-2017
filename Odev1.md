@@ -1,6 +1,6 @@
 
 
-Aşağıdaki tabloya kendi sınıfınızı, öğrenci ismini ve numaranızı yazınız. 
+
 
 Sınıf | Öğrenci İsmi  | Numara
 -------|----------------|--------
